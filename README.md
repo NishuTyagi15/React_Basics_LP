@@ -1,1 +1,3 @@
-# Getting Started with Create React App
+Basics of React - Two Components 
+Class And Function
+states, props and Hooks.
